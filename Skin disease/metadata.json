@@ -1,0 +1,7 @@
+{
+  "name": "SkinAI - Disease Detection & Skincare",
+  "description": "AI-powered skin disease detection system with personalized product recommendations and skincare routines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

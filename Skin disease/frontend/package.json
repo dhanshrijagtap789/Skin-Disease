@@ -1,0 +1,12 @@
+{
+  "name": "skin-disease-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "..\\node_modules\\.bin\\vite"
+  },
+  "dependencies": {
+    "recharts": "^3.8.1"
+  }
+}

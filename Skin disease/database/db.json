@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1774248636508,
+      "name": "dhanshri jagtap",
+      "email": "djagtap2002@gmail.com",
+      "password": "$2b$10$COcFsJo66tHQS1T8NQ2TWuIxb0Jk0TADu7pQq6ZzyqyrG3d/6c9fq",
+      "role": "user",
+      "skinType": "Oily",
+      "status": "active"
+    }
+  ],
+  "scans": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Neutrogena Acne Wash",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=400&h=400",
+      "category": "Cleanser",
+      "suitableFor": [
+        "Acne Vulgaris",
+        "Oily Skin"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "CeraVe Moisturizing Cream",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1620916566398-39f11438784e?auto=format&fit=crop&w=400&h=400",
+      "category": "Moisturizer",
+      "suitableFor": [
+        "Dry Skin",
+        "Eczema",
+        "General"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "La Roche-Posay SPF 50",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1556229167-73196924618d?auto=format&fit=crop&w=400&h=400",
+      "category": "Sunscreen",
+      "suitableFor": [
+        "All",
+        "Sensitive Skin"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Benzoyl Peroxide Gel",
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1594434272891-fc53257da00d?auto=format&fit=crop&w=400&h=400",
+      "category": "Treatment",
+      "suitableFor": [
+        "Acne Vulgaris"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Ordinary Niacinamide",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1601049541289-9b1b7abe71a0?auto=format&fit=crop&w=400&h=400",
+      "category": "Serum",
+      "suitableFor": [
+        "Acne Vulgaris",
+        "Pores",
+        "General"
+      ]
+    }
+  ]
+}
